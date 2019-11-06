@@ -1,4 +1,6 @@
-1.Create a jar file:	
+Steps	
+Build & run with jar:	
+  1.Create a jar file:	
 	1. Select project structure —>artifacts —> “+” add —>jar —> from module and dependencies	
   	2. Select the main class you you want to create to jar		
 	3. Check — include in project build —> ok	
@@ -10,5 +12,5 @@
 	
 		
 		
-2. Bundling external dependencies with jar file— see:		
-https://www.youtube.com/watch?v=Mr2mPu1tLhk   #7		
+  2. Bundling external dependencies with jar file— see:		
+  https://www.youtube.com/watch?v=Mr2mPu1tLhk   #7		
